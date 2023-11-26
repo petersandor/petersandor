@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Asus Vivobook X15](https://petersandor.name/blog/asus-vivobook-x15)
+- [New blog, new stack](https://petersandor.name/blog/new-blog-new-stack)
+- [ES2015/ES6 features](https://petersandor.name/blog/es2015-es6-features)
 <!-- BLOG-POST-LIST:END -->
