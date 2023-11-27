@@ -33,11 +33,33 @@
 - [ES2015/ES6 features](https://petersandor.name/blog/es2015-es6-features)
 <!-- BLOG-POST-LIST:END -->
 
-<!--
+<!-- 
 ### Stats
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petersandor&show_icons=true&locale=en&layout=compact&theme=transparent&border_color=FF9900&title_color=FF9900&text_color=FF9900" alt="petersandor" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=petersandor&theme=transparent&stroke=FF9900&dates=FF9900&currStreakLabel=FF9900&sideNums=FF9900&currStreakNum=FF9900&excludeDaysLabel=FF9900&fire=FF9900&ring=FF9900&border=FF9900&sideLabels=FF9900" alt="petersandor" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=petersandor&show_icons=true&locale=en&theme=github_dark_dimmed"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=petersandor&show_icons=true&locale=en&theme=transparent"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petersandor&show_icons=true&locale=en&theme=transparent" width="40%" />
+  </picture>
+
+
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=petersandor&theme=github_dark_dimmed"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=petersandor&theme=transparent"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=petersandor&theme=transparent" width="40%" />
+  </picture>
 </div>
 -->
