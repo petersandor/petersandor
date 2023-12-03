@@ -35,7 +35,7 @@
 
 ### 🪧 Note
 
-The contribution graph may not reflect all the activity performed in private GitHub instance(s) of my past and/or future employer(s) due to the disabled [unified contributions](https://docs.github.com/en/github-ae@latest/admin/configuration/configuring-github-connect/enabling-unified-contributions-for-your-enterprise) feature.
+The contribution graph may not reflect all the activity performed in private GitHub instance(s) of my past, current and/or future employer(s) due to the disabled [unified contributions](https://docs.github.com/en/github-ae@latest/admin/configuration/configuring-github-connect/enabling-unified-contributions-for-your-enterprise) feature.
 
 <!-- 
 ### Stats
