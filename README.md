@@ -33,6 +33,10 @@
 - [ES2015/ES6 features](https://petersandor.name/blog/es2015-es6-features)
 <!-- BLOG-POST-LIST:END -->
 
+### 🪧 Note
+
+The contribution graph may not reflect all the activity performed in private GitHub instance(s) of my past and/or future employer(s) due to the disabled [unified contributions](https://docs.github.com/en/github-ae@latest/admin/configuration/configuring-github-connect/enabling-unified-contributions-for-your-enterprise) feature.
+
 <!-- 
 ### Stats
 
