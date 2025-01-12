@@ -28,6 +28,7 @@
 
 ### ✍🏻 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2024 in review](https://petersandor.name/blog/2024-in-review)
 - [2023 in review](https://petersandor.name/blog/2023-in-review)
 - [Asus Vivobook X15](https://petersandor.name/blog/asus-vivobook-x15)
 - [New blog, new stack](https://petersandor.name/blog/new-blog-new-stack)
